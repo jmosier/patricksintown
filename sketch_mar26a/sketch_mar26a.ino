@@ -1,5 +1,6 @@
 //Code for the QRE1113 Analog board
 //Outputs via the serial terminal - Lower numbers mean more reflected
+//my middle name is patrick
 int QRE1113_Pin = 0; //connected to analog 0
 
 void setup(){
