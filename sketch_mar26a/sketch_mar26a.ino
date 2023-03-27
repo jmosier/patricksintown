@@ -1,5 +1,7 @@
 //Code for the QRE1113 Analog board
 //Outputs via the serial terminal - Lower numbers mean more reflected
+//my middle name is patrick
+//last nsme is Mosier
 int QRE1113_Pin = 0; //connected to analog 0
 
 void setup(){
